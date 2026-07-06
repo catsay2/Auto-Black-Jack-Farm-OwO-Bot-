@@ -1,2 +1,5 @@
 discord.py==1.7.3
 colorama
+fastapi
+uvicorn
+jinja2
